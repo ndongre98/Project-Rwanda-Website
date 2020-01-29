@@ -1,0 +1,131 @@
+#landing-page{
+	height: 570px;
+	width: 100%;
+}
+
+.divider{
+	background-color: black;
+	height: 100px;
+	width:inherit;
+}
+
+.navbar {
+	background: rgba(102, 102, 102, 0.2) !important;
+	z-index: 5;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open>.nav-link{
+	color: white;
+}
+
+.card-header{
+	background-color: rgb(150,150,150);
+	border-color: black;
+}
+
+.card{
+	border: black;
+}
+.card-header > h5{
+	color: rgb(85,85,85) !important;	
+}
+
+
+
+@media screen and (max-width: 500px){
+	.carousel-pos{
+		top: 0px !important;
+	}
+
+	.navbar, .navbar-nav{
+		min-height: 60px !important;
+	}
+
+	.interest-form{
+		margin-top: 10px;
+	}
+}
+
+.carousel-pos{
+	position: relative;
+	top: -60px;
+}
+
+.section{
+	margin-top: 50px;
+}
+
+.section-header{
+	padding-top: 60px;
+}
+
+#stuff{
+	/*background-color:rgb(132, 132, 132);*/
+	background-color:rgb(25,25,25);
+	width: inherit;
+}
+
+.team-member{
+	margin-top: 10px;
+	border-radius: 75px;
+	width: 150px;
+	height: 150px;
+	border: 7px solid rgb(220,220,220);
+}
+
+
+h2,h3,h4,h5,h6,p, li{
+	color: rgb(150,150,150);
+}
+
+h2{
+	font-size: 30pt;
+}
+
+h4{
+
+}
+
+footer{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	bottom: 0;
+	color: #bcbcbc;
+	font-size: 9pt;
+}
+
+footer > p{
+	margin-top: 100px;
+}
+
+
+a.no-decor{
+	text-decoration: none;
+}
+
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+
+/**************************************************************************/
+
+.top30{
+	margin-top: 30px;
+}
+
+.top50{
+	margin-top: 50px;
+}
+
+.top100{
+	margin-top:100px;
+}
+
+.top200{
+	margin-top: 200px;
+}

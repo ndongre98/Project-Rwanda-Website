@@ -1,0 +1,299 @@
+Jan 29 08:46:05 10.71.52.0 u90326682 Connection from 10.71.52.0 port 43884 on 74.208.59.124 port 22
+Jan 29 08:46:09 10.71.52.0 u90326682 Failed password for u90326682 from 10.71.52.0 port 43884 ssh2
+Jan 29 08:46:16 10.71.52.0 u90326682 Connection from 10.71.52.0 port 48470 on 74.208.59.124 port 22
+Jan 29 08:46:18 10.71.52.0 u90326682 Failed password for u90326682 from 10.71.52.0 port 48470 ssh2
+Jan 29 08:46:46 10.71.52.0 u90326682 Connection from 10.71.52.0 port 63100 on 74.208.59.124 port 22
+Jan 29 08:46:49 10.71.52.0 u90326682 Failed password for u90326682 from 10.71.52.0 port 63100 ssh2
+Jan 29 08:47:56 10.71.52.0 u90326682 Connection from 10.71.52.0 port 40412 on 74.208.59.124 port 22
+Jan 29 08:47:58 10.71.52.0 u90326682 Accepted password for u90326682 from 10.71.52.0 port 40412 ssh2
+Jan 29 08:47:58 10.71.52.0 u90326682 Starting session: subsystem 'sftp' for u90326682 from 10.71.52.0 port 40412
+Jan 29 08:47:58 10.71.52.0 u90326682 session opened for local user u90326682 from [10.71.52.0]
+Jan 29 08:48:29 10.71.52.0 u90326682 Connection from 10.71.52.0 port 57350 on 74.208.59.124 port 22
+Jan 29 08:48:29 10.71.52.0 u90326682 Accepted password for u90326682 from 10.71.52.0 port 57350 ssh2
+Jan 29 08:48:29 10.71.52.0 u90326682 Starting session: subsystem 'sftp' for u90326682 from 10.71.52.0 port 57350
+Jan 29 08:48:29 10.71.52.0 u90326682 session opened for local user u90326682 from [10.71.52.0]
+Jan 29 08:48:30 10.71.52.0 u90326682 open "/index.html" flags READ mode 0666
+Jan 29 08:48:29 10.71.52.0 u90326682 Connection from 10.71.52.0 port 57528 on 74.208.59.124 port 22
+Jan 29 08:48:30 10.71.52.0 u90326682 Accepted password for u90326682 from 10.71.52.0 port 57528 ssh2
+Jan 29 08:48:30 10.71.52.0 u90326682 Starting session: subsystem 'sftp' for u90326682 from 10.71.52.0 port 57528
+Jan 29 08:48:30 10.71.52.0 u90326682 session opened for local user u90326682 from [10.71.52.0]
+Jan 29 08:48:30 10.71.52.0 u90326682 close "/index.html" bytes read 18113 written 0
+Jan 29 08:48:30 10.71.52.0 u90326682 [10.71.52.0|get|0|18113|0|0|0|2f696e6465782e68746d6c|]
+Jan 29 08:48:30 10.71.52.0 u90326682 Connection closed by 10.71.52.0
+Jan 29 08:48:30 10.71.52.0 u90326682 session closed for local user u90326682 from [10.71.52.0]
+Jan 29 08:48:30 10.71.52.0 u90326682 open "/css/main.css" flags READ mode 0666
+Jan 29 08:48:30 10.71.52.0 u90326682 close "/css/main.css" bytes read 1796 written 0
+Jan 29 08:48:30 10.71.52.0 u90326682 [10.71.52.0|get|0|1796|0|0|0|2f6373732f6d61696e2e637373|]
+Jan 29 08:48:30 10.71.52.0 u90326682 Connection from 10.71.52.0 port 57828 on 74.208.59.124 port 22
+Jan 29 08:48:30 10.71.52.0 u90326682 Accepted password for u90326682 from 10.71.52.0 port 57828 ssh2
+Jan 29 08:48:30 10.71.52.0 u90326682 open "/css/bootstrap.min.css.map" flags READ mode 0666
+Jan 29 08:48:30 10.71.52.0 u90326682 Starting session: subsystem 'sftp' for u90326682 from 10.71.52.0 port 57828
+Jan 29 08:48:30 10.71.52.0 u90326682 session opened for local user u90326682 from [10.71.52.0]
+Jan 29 08:48:31 10.71.52.0 u90326682 close "/css/bootstrap.min.css.map" bytes read 68044 written 0
+Jan 29 08:48:31 10.71.52.0 u90326682 [10.71.52.0|get|1|68044|0|0|0|2f6373732f626f6f7473747261702e6d696e2e6373732e6d6170|]
+Jan 29 08:48:31 10.71.52.0 u90326682 open "/css/bootstrap.min.css" flags READ mode 0666
+Jan 29 08:48:31 10.71.52.0 u90326682 open "/css/full-slider.css" flags READ mode 0666
+Jan 29 08:48:31 10.71.52.0 u90326682 close "/css/full-slider.css" bytes read 488 written 0
+Jan 29 08:48:31 10.71.52.0 u90326682 [10.71.52.0|get|0|488|0|0|0|2f6373732f66756c6c2d736c696465722e637373|]
+Jan 29 08:48:31 10.71.52.0 u90326682 close "/css/bootstrap.min.css" bytes read 150996 written 0
+Jan 29 08:48:31 10.71.52.0 u90326682 [10.71.52.0|get|0|150996|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Jan 29 08:48:31 10.71.52.0 u90326682 open "/css/bootstrap.css.map" flags READ mode 0666
+Jan 29 08:48:31 10.71.52.0 u90326682 open "/css/bootstrap.css" flags READ mode 0666
+Jan 29 08:48:31 10.71.52.0 u90326682 close "/css/bootstrap.css" bytes read 191738 written 0
+Jan 29 08:48:31 10.71.52.0 u90326682 [10.71.52.0|get|0|191738|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Jan 29 08:48:32 10.71.52.0 u90326682 close "/css/bootstrap.css.map" bytes read 235595 written 0
+Jan 29 08:48:32 10.71.52.0 u90326682 [10.71.52.0|get|1|235595|0|0|0|2f6373732f626f6f7473747261702e6373732e6d6170|]
+Jan 29 08:48:32 10.71.52.0 u90326682 open "/css/bootstrap-reboot.min.css" flags READ mode 0666
+Jan 29 08:48:32 10.71.52.0 u90326682 open "/css/bootstrap-reboot.min.css.map" flags READ mode 0666
+Jan 29 08:48:32 10.71.52.0 u90326682 close "/css/bootstrap-reboot.min.css" bytes read 4707 written 0
+Jan 29 08:48:32 10.71.52.0 u90326682 [10.71.52.0|get|0|4707|0|0|0|2f6373732f626f6f7473747261702d7265626f6f742e6d696e2e637373|]
+Jan 29 08:48:32 10.71.52.0 u90326682 close "/css/bootstrap-reboot.min.css.map" bytes read 2668 written 0
+Jan 29 08:48:32 10.71.52.0 u90326682 [10.71.52.0|get|0|2668|0|0|0|2f6373732f626f6f7473747261702d7265626f6f742e6d696e2e6373732e6d6170|]
+Jan 29 08:48:32 10.71.52.0 u90326682 open "/css/bootstrap-reboot.css.map" flags READ mode 0666
+Jan 29 08:48:32 10.71.52.0 u90326682 open "/css/bootstrap-reboot.css" flags READ mode 0666
+Jan 29 08:48:32 10.71.52.0 u90326682 close "/css/bootstrap-reboot.css.map" bytes read 9322 written 0
+Jan 29 08:48:32 10.71.52.0 u90326682 [10.71.52.0|get|0|9322|0|0|0|2f6373732f626f6f7473747261702d7265626f6f742e6373732e6d6170|]
+Jan 29 08:48:32 10.71.52.0 u90326682 close "/css/bootstrap-reboot.css" bytes read 5916 written 0
+Jan 29 08:48:32 10.71.52.0 u90326682 [10.71.52.0|get|0|5916|0|0|0|2f6373732f626f6f7473747261702d7265626f6f742e637373|]
+Jan 29 08:48:32 10.71.52.0 u90326682 open "/css/bootstrap-grid.min.css.map" flags READ mode 0666
+Jan 29 08:48:32 10.71.52.0 u90326682 open "/css/bootstrap-grid.min.css" flags READ mode 0666
+Jan 29 08:48:32 10.71.52.0 u90326682 close "/css/bootstrap-grid.min.css.map" bytes read 12300 written 0
+Jan 29 08:48:32 10.71.52.0 u90326682 [10.71.52.0|get|0|12300|0|0|0|2f6373732f626f6f7473747261702d677269642e6d696e2e6373732e6d6170|]
+Jan 29 08:48:33 10.71.52.0 u90326682 close "/css/bootstrap-grid.min.css" bytes read 18528 written 0
+Jan 29 08:48:33 10.71.52.0 u90326682 [10.71.52.0|get|1|18528|0|0|0|2f6373732f626f6f7473747261702d677269642e6d696e2e637373|]
+Jan 29 08:48:33 10.71.52.0 u90326682 open "/css/bootstrap-grid.css.map" flags READ mode 0666
+Jan 29 08:48:33 10.71.52.0 u90326682 open "/css/bootstrap-grid.css" flags READ mode 0666
+Jan 29 08:48:33 10.71.52.0 u90326682 close "/css/bootstrap-grid.css.map" bytes read 31527 written 0
+Jan 29 08:48:33 10.71.52.0 u90326682 [10.71.52.0|get|0|31527|0|0|0|2f6373732f626f6f7473747261702d677269642e6373732e6d6170|]
+Jan 29 08:48:33 10.71.52.0 u90326682 close "/css/bootstrap-grid.css" bytes read 25510 written 0
+Jan 29 08:48:33 10.71.52.0 u90326682 [10.71.52.0|get|0|25510|0|0|0|2f6373732f626f6f7473747261702d677269642e637373|]
+Jan 29 08:48:33 10.71.52.0 u90326682 open "/css/font-awesome/HELP-US-OUT.txt" flags READ mode 0666
+Jan 29 08:48:33 10.71.52.0 u90326682 open "/css/font-awesome/css/font-awesome.min.css" flags READ mode 0666
+Jan 29 08:48:33 10.71.52.0 u90326682 close "/css/font-awesome/HELP-US-OUT.txt" bytes read 323 written 0
+Jan 29 08:48:33 10.71.52.0 u90326682 [10.71.52.0|get|0|323|0|0|0|2f6373732f666f6e742d617765736f6d652f48454c502d55532d4f55542e747874|]
+Jan 29 08:48:33 10.71.52.0 u90326682 close "/css/font-awesome/css/font-awesome.min.css" bytes read 31000 written 0
+Jan 29 08:48:33 10.71.52.0 u90326682 [10.71.52.0|get|0|31000|0|0|0|2f6373732f666f6e742d617765736f6d652f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Jan 29 08:48:33 10.71.52.0 u90326682 open "/css/font-awesome/css/font-awesome.css" flags READ mode 0666
+Jan 29 08:48:34 10.71.52.0 u90326682 close "/css/font-awesome/css/font-awesome.css" bytes read 37414 written 0
+Jan 29 08:48:34 10.71.52.0 u90326682 open "/css/font-awesome/fonts/FontAwesome.otf" flags READ mode 0666
+Jan 29 08:48:34 10.71.52.0 u90326682 [10.71.52.0|get|1|37414|0|0|0|2f6373732f666f6e742d617765736f6d652f6373732f666f6e742d617765736f6d652e637373|]
+Jan 29 08:48:34 10.71.52.0 u90326682 close "/css/font-awesome/fonts/FontAwesome.otf" bytes read 134808 written 0
+Jan 29 08:48:34 10.71.52.0 u90326682 [10.71.52.0|get|0|134808|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Jan 29 08:48:34 10.71.52.0 u90326682 open "/css/font-awesome/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Jan 29 08:48:34 10.71.52.0 u90326682 open "/css/font-awesome/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Jan 29 08:48:34 10.71.52.0 u90326682 close "/css/font-awesome/fonts/fontawesome-webfont.woff2" bytes read 77160 written 0
+Jan 29 08:48:34 10.71.52.0 u90326682 [10.71.52.0|get|0|77160|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Jan 29 08:48:34 10.71.52.0 u90326682 close "/css/font-awesome/fonts/fontawesome-webfont.woff" bytes read 98024 written 0
+Jan 29 08:48:34 10.71.52.0 u90326682 [10.71.52.0|get|0|98024|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Jan 29 08:48:35 10.71.52.0 u90326682 open "/css/font-awesome/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Jan 29 08:48:35 10.71.52.0 u90326682 open "/css/font-awesome/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Jan 29 08:48:35 10.71.52.0 u90326682 sent status No such file
+Jan 29 08:48:35 10.71.52.0 u90326682 close "/css/font-awesome/fonts/fontawesome-webfont.ttf" bytes read 165548 written 0
+Jan 29 08:48:35 10.71.52.0 u90326682 [10.71.52.0|get|0|165548|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Jan 29 08:48:35 10.71.52.0 u90326682 close "/css/font-awesome/fonts/fontawesome-webfont.svg" bytes read 444379 written 0
+Jan 29 08:48:35 10.71.52.0 u90326682 [10.71.52.0|get|0|444379|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Jan 29 08:48:35 10.71.52.0 u90326682 open "/css/font-awesome/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Jan 29 08:48:36 10.71.52.0 u90326682 close "/css/font-awesome/fonts/fontawesome-webfont.eot" bytes read 165742 written 0
+Jan 29 08:48:36 10.71.52.0 u90326682 [10.71.52.0|get|1|165742|0|0|0|2f6373732f666f6e742d617765736f6d652f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Jan 29 08:48:36 10.71.52.0 u90326682 open "/css/font-awesome/less/variables.less" flags READ mode 0666
+Jan 29 08:48:36 10.71.52.0 u90326682 close "/css/font-awesome/less/variables.less" bytes read 22563 written 0
+Jan 29 08:48:36 10.71.52.0 u90326682 [10.71.52.0|get|0|22563|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f7661726961626c65732e6c657373|]
+Jan 29 08:48:36 10.71.52.0 u90326682 open "/css/font-awesome/less/stacked.less" flags READ mode 0666
+Jan 29 08:48:36 10.71.52.0 u90326682 open "/css/font-awesome/less/screen-reader.less" flags READ mode 0666
+Jan 29 08:48:36 10.71.52.0 u90326682 close "/css/font-awesome/less/stacked.less" bytes read 476 written 0
+Jan 29 08:48:36 10.71.52.0 u90326682 [10.71.52.0|get|0|476|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f737461636b65642e6c657373|]
+Jan 29 08:48:36 10.71.52.0 u90326682 close "/css/font-awesome/less/screen-reader.less" bytes read 118 written 0
+Jan 29 08:48:36 10.71.52.0 u90326682 [10.71.52.0|get|0|118|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f73637265656e2d7265616465722e6c657373|]
+Jan 29 08:48:36 10.71.52.0 u90326682 open "/css/font-awesome/less/rotated-flipped.less" flags READ mode 0666
+Jan 29 08:48:36 10.71.52.0 u90326682 open "/css/font-awesome/less/path.less" flags READ mode 0666
+Jan 29 08:48:36 10.71.52.0 u90326682 close "/css/font-awesome/less/rotated-flipped.less" bytes read 622 written 0
+Jan 29 08:48:36 10.71.52.0 u90326682 [10.71.52.0|get|0|622|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f726f74617465642d666c69707065642e6c657373|]
+Jan 29 08:48:37 10.71.52.0 u90326682 close "/css/font-awesome/less/path.less" bytes read 771 written 0
+Jan 29 08:48:37 10.71.52.0 u90326682 [10.71.52.0|get|1|771|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f706174682e6c657373|]
+Jan 29 08:48:37 10.71.52.0 u90326682 open "/css/font-awesome/less/mixins.less" flags READ mode 0666
+Jan 29 08:48:37 10.71.52.0 u90326682 open "/css/font-awesome/less/list.less" flags READ mode 0666
+Jan 29 08:48:37 10.71.52.0 u90326682 close "/css/font-awesome/less/mixins.less" bytes read 1603 written 0
+Jan 29 08:48:37 10.71.52.0 u90326682 [10.71.52.0|get|0|1603|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f6d6978696e732e6c657373|]
+Jan 29 08:48:37 10.71.52.0 u90326682 close "/css/font-awesome/less/list.less" bytes read 377 written 0
+Jan 29 08:48:37 10.71.52.0 u90326682 [10.71.52.0|get|0|377|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f6c6973742e6c657373|]
+Jan 29 08:48:37 10.71.52.0 u90326682 open "/css/font-awesome/less/larger.less" flags READ mode 0666
+Jan 29 08:48:37 10.71.52.0 u90326682 open "/css/font-awesome/less/icons.less" flags READ mode 0666
+Jan 29 08:48:37 10.71.52.0 u90326682 close "/css/font-awesome/less/larger.less" bytes read 370 written 0
+Jan 29 08:48:37 10.71.52.0 u90326682 [10.71.52.0|get|0|370|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f6c61726765722e6c657373|]
+Jan 29 08:48:37 10.71.52.0 u90326682 open "/css/font-awesome/less/font-awesome.less" flags READ mode 0666
+Jan 29 08:48:37 10.71.52.0 u90326682 close "/css/font-awesome/less/icons.less" bytes read 49712 written 0
+Jan 29 08:48:37 10.71.52.0 u90326682 [10.71.52.0|get|0|49712|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f69636f6e732e6c657373|]
+Jan 29 08:48:37 10.71.52.0 u90326682 close "/css/font-awesome/less/font-awesome.less" bytes read 495 written 0
+Jan 29 08:48:37 10.71.52.0 u90326682 [10.71.52.0|get|0|495|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f666f6e742d617765736f6d652e6c657373|]
+Jan 29 08:48:37 10.71.52.0 u90326682 open "/css/font-awesome/less/fixed-width.less" flags READ mode 0666
+Jan 29 08:48:38 10.71.52.0 u90326682 open "/css/font-awesome/less/bordered-pulled.less" flags READ mode 0666
+Jan 29 08:48:38 10.71.52.0 u90326682 close "/css/font-awesome/less/fixed-width.less" bytes read 119 written 0
+Jan 29 08:48:38 10.71.52.0 u90326682 [10.71.52.0|get|1|119|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f66697865642d77696474682e6c657373|]
+Jan 29 08:48:38 10.71.52.0 u90326682 close "/css/font-awesome/less/bordered-pulled.less" bytes read 585 written 0
+Jan 29 08:48:38 10.71.52.0 u90326682 open "/css/font-awesome/less/core.less" flags READ mode 0666
+Jan 29 08:48:38 10.71.52.0 u90326682 [10.71.52.0|get|0|585|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f626f7264657265642d70756c6c65642e6c657373|]
+Jan 29 08:48:38 10.71.52.0 u90326682 open "/css/font-awesome/less/animated.less" flags READ mode 0666
+Jan 29 08:48:38 10.71.52.0 u90326682 close "/css/font-awesome/less/core.less" bytes read 452 written 0
+Jan 29 08:48:38 10.71.52.0 u90326682 [10.71.52.0|get|0|452|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f636f72652e6c657373|]
+Jan 29 08:48:38 10.71.52.0 u90326682 close "/css/font-awesome/less/animated.less" bytes read 713 written 0
+Jan 29 08:48:38 10.71.52.0 u90326682 [10.71.52.0|get|0|713|0|0|0|2f6373732f666f6e742d617765736f6d652f6c6573732f616e696d617465642e6c657373|]
+Jan 29 08:48:38 10.71.52.0 u90326682 open "/css/font-awesome/scss/_variables.scss" flags READ mode 0666
+Jan 29 08:48:38 10.71.52.0 u90326682 open "/css/font-awesome/scss/_stacked.scss" flags READ mode 0666
+Jan 29 08:48:38 10.71.52.0 u90326682 close "/css/font-awesome/scss/_variables.scss" bytes read 22644 written 0
+Jan 29 08:48:38 10.71.52.0 u90326682 [10.71.52.0|get|0|22644|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f7661726961626c65732e73637373|]
+Jan 29 08:48:39 10.71.52.0 u90326682 close "/css/font-awesome/scss/_stacked.scss" bytes read 482 written 0
+Jan 29 08:48:39 10.71.52.0 u90326682 [10.71.52.0|get|1|482|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f737461636b65642e73637373|]
+Jan 29 08:48:39 10.71.52.0 u90326682 open "/css/font-awesome/scss/_screen-reader.scss" flags READ mode 0666
+Jan 29 08:48:39 10.71.52.0 u90326682 open "/css/font-awesome/scss/_rotated-flipped.scss" flags READ mode 0666
+Jan 29 08:48:39 10.71.52.0 u90326682 close "/css/font-awesome/scss/_screen-reader.scss" bytes read 134 written 0
+Jan 29 08:48:39 10.71.52.0 u90326682 [10.71.52.0|get|0|134|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f73637265656e2d7265616465722e73637373|]
+Jan 29 08:48:39 10.71.52.0 u90326682 close "/css/font-awesome/scss/_rotated-flipped.scss" bytes read 672 written 0
+Jan 29 08:48:39 10.71.52.0 u90326682 [10.71.52.0|get|0|672|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f726f74617465642d666c69707065642e73637373|]
+Jan 29 08:48:39 10.71.52.0 u90326682 open "/css/font-awesome/scss/_mixins.scss" flags READ mode 0666
+Jan 29 08:48:39 10.71.52.0 u90326682 open "/css/font-awesome/scss/_path.scss" flags READ mode 0666
+Jan 29 08:48:39 10.71.52.0 u90326682 close "/css/font-awesome/scss/_mixins.scss" bytes read 1637 written 0
+Jan 29 08:48:39 10.71.52.0 u90326682 [10.71.52.0|get|0|1637|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f6d6978696e732e73637373|]
+Jan 29 08:48:39 10.71.52.0 u90326682 close "/css/font-awesome/scss/_path.scss" bytes read 783 written 0
+Jan 29 08:48:39 10.71.52.0 u90326682 [10.71.52.0|get|0|783|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f706174682e73637373|]
+Jan 29 08:48:39 10.71.52.0 u90326682 open "/css/font-awesome/scss/_list.scss" flags READ mode 0666
+Jan 29 08:48:39 10.71.52.0 u90326682 open "/css/font-awesome/scss/_larger.scss" flags READ mode 0666
+Jan 29 08:48:39 10.71.52.0 u90326682 close "/css/font-awesome/scss/_list.scss" bytes read 378 written 0
+Jan 29 08:48:39 10.71.52.0 u90326682 [10.71.52.0|get|0|378|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f6c6973742e73637373|]
+Jan 29 08:48:40 10.71.52.0 u90326682 close "/css/font-awesome/scss/_larger.scss" bytes read 375 written 0
+Jan 29 08:48:40 10.71.52.0 u90326682 open "/css/font-awesome/scss/_fixed-width.scss" flags READ mode 0666
+Jan 29 08:48:40 10.71.52.0 u90326682 [10.71.52.0|get|1|375|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f6c61726765722e73637373|]
+Jan 29 08:48:40 10.71.52.0 u90326682 open "/css/font-awesome/scss/_icons.scss" flags READ mode 0666
+Jan 29 08:48:40 10.71.52.0 u90326682 close "/css/font-awesome/scss/_fixed-width.scss" bytes read 120 written 0
+Jan 29 08:48:40 10.71.52.0 u90326682 [10.71.52.0|get|0|120|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f66697865642d77696474682e73637373|]
+Jan 29 08:48:40 10.71.52.0 u90326682 open "/css/font-awesome/scss/_bordered-pulled.scss" flags READ mode 0666
+Jan 29 08:48:40 10.71.52.0 u90326682 close "/css/font-awesome/scss/_icons.scss" bytes read 50498 written 0
+Jan 29 08:48:40 10.71.52.0 u90326682 [10.71.52.0|get|0|50498|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f69636f6e732e73637373|]
+Jan 29 08:48:40 10.71.52.0 u90326682 open "/css/font-awesome/scss/_core.scss" flags READ mode 0666
+Jan 29 08:48:40 10.71.52.0 u90326682 close "/css/font-awesome/scss/_bordered-pulled.scss" bytes read 592 written 0
+Jan 29 08:48:40 10.71.52.0 u90326682 [10.71.52.0|get|0|592|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f626f7264657265642d70756c6c65642e73637373|]
+Jan 29 08:48:40 10.71.52.0 u90326682 close "/css/font-awesome/scss/_core.scss" bytes read 459 written 0
+Jan 29 08:48:40 10.71.52.0 u90326682 [10.71.52.0|get|0|459|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f636f72652e73637373|]
+Jan 29 08:48:40 10.71.52.0 u90326682 open "/css/font-awesome/scss/font-awesome.scss" flags READ mode 0666
+Jan 29 08:48:40 10.71.52.0 u90326682 open "/css/font-awesome/scss/_animated.scss" flags READ mode 0666
+Jan 29 08:48:40 10.71.52.0 u90326682 close "/css/font-awesome/scss/font-awesome.scss" bytes read 430 written 0
+Jan 29 08:48:40 10.71.52.0 u90326682 [10.71.52.0|get|0|430|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f666f6e742d617765736f6d652e73637373|]
+Jan 29 08:48:41 10.71.52.0 u90326682 close "/css/font-awesome/scss/_animated.scss" bytes read 715 written 0
+Jan 29 08:48:41 10.71.52.0 u90326682 [10.71.52.0|get|1|715|0|0|0|2f6373732f666f6e742d617765736f6d652f736373732f5f616e696d617465642e73637373|]
+Jan 29 08:48:41 10.71.52.0 u90326682 open "/css/fonts/Dharma Type Font License.txt" flags READ mode 0666
+Jan 29 08:48:41 10.71.52.0 u90326682 open "/css/fonts/BebasNeue-webfont.woff" flags READ mode 0666
+Jan 29 08:48:41 10.71.52.0 u90326682 close "/css/fonts/Dharma Type Font License.txt" bytes read 2586 written 0
+Jan 29 08:48:41 10.71.52.0 u90326682 [10.71.52.0|get|0|2586|0|0|0|2f6373732f666f6e74732f446861726d61205479706520466f6e74204c6963656e73652e747874|]
+Jan 29 08:48:41 10.71.52.0 u90326682 close "/css/fonts/BebasNeue-webfont.woff" bytes read 14092 written 0
+Jan 29 08:48:41 10.71.52.0 u90326682 [10.71.52.0|get|0|14092|0|0|0|2f6373732f666f6e74732f42656261734e6575652d776562666f6e742e776f6666|]
+Jan 29 08:48:41 10.71.52.0 u90326682 open "/css/fonts/BebasNeue-webfont.ttf" flags READ mode 0666
+Jan 29 08:48:41 10.71.52.0 u90326682 open "/css/fonts/BebasNeue-webfont.svg" flags READ mode 0666
+Jan 29 08:48:41 10.71.52.0 u90326682 close "/css/fonts/BebasNeue-webfont.ttf" bytes read 29768 written 0
+Jan 29 08:48:41 10.71.52.0 u90326682 [10.71.52.0|get|0|29768|0|0|0|2f6373732f666f6e74732f42656261734e6575652d776562666f6e742e747466|]
+Jan 29 08:48:42 10.71.52.0 u90326682 open "/css/fonts/BebasNeue-webfont.eot" flags READ mode 0666
+Jan 29 08:48:42 10.71.52.0 u90326682 close "/css/fonts/BebasNeue-webfont.svg" bytes read 28026 written 0
+Jan 29 08:48:42 10.71.52.0 u90326682 [10.71.52.0|get|1|28026|0|0|0|2f6373732f666f6e74732f42656261734e6575652d776562666f6e742e737667|]
+Jan 29 08:48:42 10.71.52.0 u90326682 close "/css/fonts/BebasNeue-webfont.eot" bytes read 12090 written 0
+Jan 29 08:48:42 10.71.52.0 u90326682 [10.71.52.0|get|0|12090|0|0|0|2f6373732f666f6e74732f42656261734e6575652d776562666f6e742e656f74|]
+Jan 29 08:48:42 10.71.52.0 u90326682 open "/images/shahriyar.jpg" flags READ mode 0666
+Jan 29 08:48:42 10.71.52.0 u90326682 open "/images/rwanda.png" flags READ mode 0666
+Jan 29 08:48:42 10.71.52.0 u90326682 close "/images/shahriyar.jpg" bytes read 40463 written 0
+Jan 29 08:48:42 10.71.52.0 u90326682 [10.71.52.0|get|0|40463|0|0|0|2f696d616765732f7368616872697961722e6a7067|]
+Jan 29 08:48:42 10.71.52.0 u90326682 open "/images/rwanda-outline.png" flags READ mode 0666
+Jan 29 08:48:42 10.71.52.0 u90326682 close "/images/rwanda.png" bytes read 137951 written 0
+Jan 29 08:48:42 10.71.52.0 u90326682 [10.71.52.0|get|0|137951|0|0|0|2f696d616765732f7277616e64612e706e67|]
+Jan 29 08:48:43 10.71.52.0 u90326682 open "/images/rwanda-africa-map.png" flags READ mode 0666
+Jan 29 08:48:43 10.71.52.0 u90326682 close "/images/rwanda-outline.png" bytes read 27811 written 0
+Jan 29 08:48:43 10.71.52.0 u90326682 [10.71.52.0|get|1|27811|0|0|0|2f696d616765732f7277616e64612d6f75746c696e652e706e67|]
+Jan 29 08:48:43 10.71.52.0 u90326682 open "/images/nightsky.JPG" flags READ mode 0666
+Jan 29 08:48:43 10.71.52.0 u90326682 close "/images/rwanda-africa-map.png" bytes read 273635 written 0
+Jan 29 08:48:43 10.71.52.0 u90326682 [10.71.52.0|get|1|273635|0|0|0|2f696d616765732f7277616e64612d6166726963612d6d61702e706e67|]
+Jan 29 08:48:43 10.71.52.0 u90326682 open "/images/namita.jpg" flags READ mode 0666
+Jan 29 08:48:44 10.71.52.0 u90326682 close "/images/nightsky.JPG" bytes read 707779 written 0
+Jan 29 08:48:44 10.71.52.0 u90326682 [10.71.52.0|get|1|707779|0|0|0|2f696d616765732f6e69676874736b792e4a5047|]
+Jan 29 08:48:44 10.71.52.0 u90326682 close "/images/namita.jpg" bytes read 23562 written 0
+Jan 29 08:48:44 10.71.52.0 u90326682 [10.71.52.0|get|1|23562|0|0|0|2f696d616765732f6e616d6974612e6a7067|]
+Jan 29 08:48:44 10.71.52.0 u90326682 open "/images/mountkigali2.jpg" flags READ mode 0666
+Jan 29 08:48:44 10.71.52.0 u90326682 open "/images/main.jpg" flags READ mode 0666
+Jan 29 08:48:44 10.71.52.0 u90326682 close "/images/main.jpg" bytes read 214737 written 0
+Jan 29 08:48:44 10.71.52.0 u90326682 [10.71.52.0|get|0|214737|0|0|0|2f696d616765732f6d61696e2e6a7067|]
+Jan 29 08:48:45 10.71.52.0 u90326682 close "/images/mountkigali2.jpg" bytes read 977905 written 0
+Jan 29 08:48:45 10.71.52.0 u90326682 [10.71.52.0|get|1|977905|0|0|0|2f696d616765732f6d6f756e746b6967616c69322e6a7067|]
+Jan 29 08:48:45 10.71.52.0 u90326682 open "/images/love.jpg" flags READ mode 0666
+Jan 29 08:48:45 10.71.52.0 u90326682 open "/images/IMG_0517.JPG" flags READ mode 0666
+Jan 29 08:48:46 10.71.52.0 u90326682 close "/images/IMG_0517.JPG" bytes read 1166379 written 0
+Jan 29 08:48:46 10.71.52.0 u90326682 [10.71.52.0|get|1|1166379|0|0|0|2f696d616765732f494d475f303531372e4a5047|]
+Jan 29 08:48:46 10.71.52.0 u90326682 open "/images/IMG_0516.JPG" flags READ mode 0666
+Jan 29 08:48:47 10.71.52.0 u90326682 close "/images/love.jpg" bytes read 1296675 written 0
+Jan 29 08:48:47 10.71.52.0 u90326682 [10.71.52.0|get|2|1296675|0|0|0|2f696d616765732f6c6f76652e6a7067|]
+Jan 29 08:48:47 10.71.52.0 u90326682 open "/images/IMG_0507.JPG" flags READ mode 0666
+Jan 29 08:48:48 10.71.52.0 u90326682 close "/images/IMG_0516.JPG" bytes read 2522388 written 0
+Jan 29 08:48:48 10.71.52.0 u90326682 [10.71.52.0|get|2|2522388|0|0|0|2f696d616765732f494d475f303531362e4a5047|]
+Jan 29 08:48:48 10.71.52.0 u90326682 open "/images/ankita.png" flags READ mode 0666
+Jan 29 08:48:48 10.71.52.0 u90326682 close "/images/ankita.png" bytes read 104913 written 0
+Jan 29 08:48:48 10.71.52.0 u90326682 [10.71.52.0|get|0|104913|0|0|0|2f696d616765732f616e6b6974612e706e67|]
+Jan 29 08:48:48 10.71.52.0 u90326682 open "/images/alice.png" flags READ mode 0666
+Jan 29 08:48:48 10.71.52.0 u90326682 close "/images/IMG_0507.JPG" bytes read 986532 written 0
+Jan 29 08:48:48 10.71.52.0 u90326682 [10.71.52.0|get|1|986532|0|0|0|2f696d616765732f494d475f303530372e4a5047|]
+Jan 29 08:48:49 10.71.52.0 u90326682 open "/images/5.jpg" flags READ mode 0666
+Jan 29 08:48:49 10.71.52.0 u90326682 close "/images/alice.png" bytes read 180776 written 0
+Jan 29 08:48:49 10.71.52.0 u90326682 [10.71.52.0|get|1|180776|0|0|0|2f696d616765732f616c6963652e706e67|]
+Jan 29 08:48:49 10.71.52.0 u90326682 open "/images/4.jpg" flags READ mode 0666
+Jan 29 08:48:50 10.71.52.0 u90326682 close "/images/4.jpg" bytes read 319579 written 0
+Jan 29 08:48:50 10.71.52.0 u90326682 [10.71.52.0|get|1|319579|0|0|0|2f696d616765732f342e6a7067|]
+Jan 29 08:48:50 10.71.52.0 u90326682 open "/images/3.jpg" flags READ mode 0666
+Jan 29 08:48:50 10.71.52.0 u90326682 close "/images/5.jpg" bytes read 1116450 written 0
+Jan 29 08:48:50 10.71.52.0 u90326682 [10.71.52.0|get|1|1116450|0|0|0|2f696d616765732f352e6a7067|]
+Jan 29 08:48:50 10.71.52.0 u90326682 open "/images/1.jpg" flags READ mode 0666
+Jan 29 08:48:51 10.71.52.0 u90326682 close "/images/1.jpg" bytes read 268059 written 0
+Jan 29 08:48:51 10.71.52.0 u90326682 [10.71.52.0|get|1|268059|0|0|0|2f696d616765732f312e6a7067|]
+Jan 29 08:48:51 10.71.52.0 u90326682 close "/images/3.jpg" bytes read 248381 written 0
+Jan 29 08:48:51 10.71.52.0 u90326682 [10.71.52.0|get|1|248381|0|0|0|2f696d616765732f332e6a7067|]
+Jan 29 08:48:51 10.71.52.0 u90326682 open "/images/2.jpg" flags READ mode 0666
+Jan 29 08:48:51 10.71.52.0 u90326682 open "/js/tether.min.js" flags READ mode 0666
+Jan 29 08:48:51 10.71.52.0 u90326682 close "/images/2.jpg" bytes read 208926 written 0
+Jan 29 08:48:51 10.71.52.0 u90326682 [10.71.52.0|get|0|208926|0|0|0|2f696d616765732f322e6a7067|]
+Jan 29 08:48:51 10.71.52.0 u90326682 close "/js/tether.min.js" bytes read 24997 written 0
+Jan 29 08:48:51 10.71.52.0 u90326682 [10.71.52.0|get|0|24997|0|0|0|2f6a732f7465746865722e6d696e2e6a73|]
+Jan 29 08:48:51 10.71.52.0 u90326682 open "/js/jquery-3.2.1.min.js" flags READ mode 0666
+Jan 29 08:48:51 10.71.52.0 u90326682 open "/js/script.js" flags READ mode 0666
+Jan 29 08:48:52 10.71.52.0 u90326682 close "/js/script.js" bytes read 612 written 0
+Jan 29 08:48:52 10.71.52.0 u90326682 [10.71.52.0|get|1|612|0|0|0|2f6a732f7363726970742e6a73|]
+Jan 29 08:48:52 10.71.52.0 u90326682 close "/js/jquery-3.2.1.min.js" bytes read 86659 written 0
+Jan 29 08:48:52 10.71.52.0 u90326682 [10.71.52.0|get|1|86659|0|0|0|2f6a732f6a71756572792d332e322e312e6d696e2e6a73|]
+Jan 29 08:48:52 10.71.52.0 u90326682 open "/js/bootstrap.min.js" flags READ mode 0666
+Jan 29 08:48:52 10.71.52.0 u90326682 open "/js/bootstrap.js" flags READ mode 0666
+Jan 29 08:48:52 10.71.52.0 u90326682 close "/js/bootstrap.min.js" bytes read 46653 written 0
+Jan 29 08:48:52 10.71.52.0 u90326682 [10.71.52.0|get|0|46653|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Jan 29 08:48:52 10.71.52.0 u90326682 close "/js/bootstrap.js" bytes read 99753 written 0
+Jan 29 08:48:52 10.71.52.0 u90326682 [10.71.52.0|get|0|99753|0|0|0|2f6a732f626f6f7473747261702e6a73|]
+Jan 29 08:48:52 10.71.52.0 u90326682 open "/logs/access.log.51.gz" flags READ mode 0666
+Jan 29 08:48:52 10.71.52.0 u90326682 open "/logs/access.log.50.gz" flags READ mode 0666
+Jan 29 08:48:52 10.71.52.0 u90326682 close "/logs/access.log.51.gz" bytes read 7198 written 0
+Jan 29 08:48:52 10.71.52.0 u90326682 [10.71.52.0|get|0|7198|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e677a|]
+Jan 29 08:48:53 10.71.52.0 u90326682 open "/logs/access.log.49.gz" flags READ mode 0666
+Jan 29 08:48:53 10.71.52.0 u90326682 close "/logs/access.log.50.gz" bytes read 8160 written 0
+Jan 29 08:48:53 10.71.52.0 u90326682 [10.71.52.0|get|1|8160|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e677a|]
+Jan 29 08:48:53 10.71.52.0 u90326682 close "/logs/access.log.49.gz" bytes read 7045 written 0
+Jan 29 08:48:53 10.71.52.0 u90326682 [10.71.52.0|get|0|7045|0|0|0|2f6c6f67732f6163636573732e6c6f672e34392e677a|]
+Jan 29 08:48:53 10.71.52.0 u90326682 open "/logs/access.log.03.gz" flags READ mode 0666
+Jan 29 08:48:53 10.71.52.0 u90326682 open "/logs/access.log.04.5.gz" flags READ mode 0666
+Jan 29 08:48:53 10.71.52.0 u90326682 close "/logs/access.log.03.gz" bytes read 6646 written 0
+Jan 29 08:48:53 10.71.52.0 u90326682 [10.71.52.0|get|0|6646|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e677a|]
+Jan 29 08:48:53 10.71.52.0 u90326682 close "/logs/access.log.04.5.gz" bytes read 1115 written 0
+Jan 29 08:48:53 10.71.52.0 u90326682 [10.71.52.0|get|0|1115|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e352e677a|]
+Jan 29 08:48:53 10.71.52.0 u90326682 open "/logs/access.log.04.4.gz" flags READ mode 0666
+Jan 29 08:48:53 10.71.52.0 u90326682 open "/logs/access.log.04.3.gz" flags READ mode 0666
+Jan 29 08:48:53 10.71.52.0 u90326682 close "/logs/access.log.04.4.gz" bytes read 919 written 0
+Jan 29 08:48:53 10.71.52.0 u90326682 [10.71.52.0|get|0|919|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e342e677a|]
+Jan 29 08:48:53 10.71.52.0 u90326682 open "/logs/access.log.04.2.gz" flags READ mode 0666
+Jan 29 08:48:53 10.71.52.0 u90326682 close "/logs/access.log.04.3.gz" bytes read 1132 written 0
+Jan 29 08:48:53 10.71.52.0 u90326682 [10.71.52.0|get|0|1132|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e332e677a|]
+Jan 29 08:48:53 10.71.52.0 u90326682 open "/logs/access.log.04.1.gz" flags READ mode 0666
+Jan 29 08:48:53 10.71.52.0 u90326682 close "/logs/access.log.04.2.gz" bytes read 1228 written 0
+Jan 29 08:48:53 10.71.52.0 u90326682 [10.71.52.0|get|0|1228|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e322e677a|]
+Jan 29 08:48:54 10.71.52.0 u90326682 open "/logs/access.log.01.gz" flags READ mode 0666
+Jan 29 08:48:54 10.71.52.0 u90326682 close "/logs/access.log.04.1.gz" bytes read 1202 written 0
+Jan 29 08:48:54 10.71.52.0 u90326682 [10.71.52.0|get|1|1202|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e312e677a|]
+Jan 29 08:48:54 10.71.52.0 u90326682 close "/logs/access.log.01.gz" bytes read 10279 written 0
+Jan 29 08:48:54 10.71.52.0 u90326682 open "/logs/sftp.log" flags READ mode 0666
+Jan 29 08:48:54 10.71.52.0 u90326682 [10.71.52.0|get|0|10279|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e677a|]
